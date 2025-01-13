@@ -1,1 +1,2 @@
-# calculette_pourboire
+# Calculatrice_pourboire
+calculatrice pour calculer les pourboire
